@@ -1,0 +1,17 @@
+{
+  "name": "genesis-side",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@unisat/wallet-sdk": "^1.7.3",
+    "@youpaichris/logger": "^6.1.1",
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5"
+  }
+}
